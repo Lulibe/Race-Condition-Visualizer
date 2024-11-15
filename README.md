@@ -24,8 +24,8 @@ Este projeto simula a compra de assentos em um ônibus utilizando múltiplas thr
 1. **Clone este repositório**:
 
     ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
-    cd nome-do-repositorio
+    git clone https://github.com/Lulibe/Race-Condition-Visualizer.git
+    cd Race-Condition-Vizualizer
     ```
 
 2. **Compile o programa** utilizando o `Makefile`:
